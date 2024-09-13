@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    margin: 0;
+}
+
+#logo{      
+    width: 100%;
+    background-color:rgba(58, 11, 99, 1);
+    margin-top: 0;
+}
+#imglogo{
+    margin-left: 25%
+    ;width: 200px;
+}
+
+#tel img{ text-align: center;
+    width: 300px;
+}
+
+#form{width: 408px;
+margin-bottom: -8.8px;
+}
+
+#matr img{
+    width: 400px;
+}
+#matr{text-align: center;
+}
+#frosa
+
+
+{background-color: rgba(251, 69, 199, 1);width: 100%;
+    
+}
+#tel{text-align: center;
+}
+#esp {width: 20%;
+}
+#ftmoca{
+    text-align: center
+    ;width: 30%;
+    padding-top: 40px;
+}
+#ftmoca img {
+    width: 445px;
+}
+#texto{color: white;
+font-family:"Raleway", sans-serif;
+}
+#texto p{width: 75%;
+text-align: justify;
+margin-top: 15px;
+line-height: 24px;
+}
+#texto h2{
+    margin-bottom: 20px;
+    font-size: 30px;
+    padding-top: 40px;
+}
+#texto h4{font-size: 17px;
+}
+
+#fverde{background-color: #89f668;
+}
+
+#cotemig {text-align: center;
+margin-top: 8%;}
+
+
+#google img {
+    width: 225px;
+}
+ #google 
+{text-align: center;
+}
+#txtp {width: 55%;
+text-align:justify;
+margin-top: 15px;}
+#txth2{margin-top: 20px
+    ;}
+table{width: 100%;
+    background-image:url(Imagens/fundo\ 1.png) ;
+    background-size: cover;}
+    #icones {columns: 3;}
+    #icones p{
+        font-size: 18px;
+        text-align: center;}
+#icones img {text-align: center;}
+ #txt {
+    color: rgb(102, 16, 131);
+font-family:"Raleway", sans-serif; 
+font-weight: bold;
+font-size: 18px;
+}   
+    #ctxt {color: rgb(137, 246, 104);
+    font-weight: bold;
+font-family:"Raleway", sans-serif ; text-align: center
+;}
+#ctxt{margin-bottom: 30px;
+}
+
+#ctxt h2{margin-top: 30px; font-size: 32px; font-weight: bold;
+    font-family:"Raleway", sans-serif ; text-align: center;
+}
+#fpq {background-color:rgba(67,11,110,1);
+}
+
+#qd {background-color: #5b1078;
+}
+#img02{width: 455px;}
+#ctxt2 {color: rgb(137, 246, 104);
+    font-weight: bold;
+font-family:"Raleway", sans-serif ; text-align: center}
+
+
+#ult{font-size: 14px;
+    font-family:"Raleway", sans-serif ; text-align: center;
+columns: 3;
+color: white;}
